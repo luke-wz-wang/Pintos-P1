@@ -7,4 +7,5 @@
 
 - Multilevel Feedback Queue Scheduler
 
-DISCLAIMER: Don't copy this for your coursework.
+DISCLAIMER: This is a private output of operating systems coursework.
+Don't copy this for your coursework.
