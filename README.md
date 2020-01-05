@@ -3,6 +3,8 @@
 
 - Wait Queue
 
-- Basic Priority Scheduling
+- Priority Scheduling
+
+- Multilevel Feedback Queue Scheduler
 
 DISCLAIMER: Don't copy this for your coursework.
